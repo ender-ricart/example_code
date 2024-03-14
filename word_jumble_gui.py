@@ -1,4 +1,4 @@
-from portfolio_project_pkg import word_dictionaries, account_creation 
+import word_dictionaries, account_creation 
 import random
 
 #GUI
